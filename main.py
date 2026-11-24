@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """The Most Honest Outage Line - make.fun bounty entry.
 
 Writes one status page line (at most 160 characters) to /output/entry.txt:
